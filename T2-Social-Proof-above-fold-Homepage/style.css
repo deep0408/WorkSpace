@@ -54,6 +54,9 @@
   text-underline-offset: auto;
   text-underline-position: from-font;
 }
+.gmd-02 .gmd-review-slider .gmd-rating-number-wrapper .gmd-rating span:hover {
+  text-decoration: none;
+}
 .gmd-02 .gmd-review-slider .slider-data-wrapper {
   max-width: 50%;
   width: 100%;

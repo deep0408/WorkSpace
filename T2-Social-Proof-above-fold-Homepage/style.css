@@ -69,6 +69,12 @@
   width: 100%;
   position: relative;
   max-width: 545px;
+  padding: 0 15px;
+}
+@media (max-width: 500px) {
+  .gmd-02 .gmd-review-slider .slider-data-wrapper .custom-slider-wrapper {
+    padding: 0 20px;
+  }
 }
 .gmd-02 .gmd-review-slider .slider-data-wrapper .custom-slider-wrapper .gmd-customSwiper {
   display: flex;
@@ -77,12 +83,10 @@
   position: relative;
   max-width: 425px;
   margin: 0 auto;
-  padding: 0 15px;
 }
 @media (max-width: 500px) {
   .gmd-02 .gmd-review-slider .slider-data-wrapper .custom-slider-wrapper .gmd-customSwiper {
     max-width: 295px;
-    padding: 0 20px;
   }
 }
 .gmd-02 .gmd-review-slider .slider-data-wrapper .custom-slider-wrapper .gmd-customSwiper {

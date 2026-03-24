@@ -58,23 +58,23 @@
             </defs>
         </svg>
         <p class="gmd-rating"><b>4.7/5</b> uit meer dan
-            <a href="https://nl.trustpilot.com/review/misstowels.nl" target="_blank" rel="noopener"> <u>346+ reviews</u> </a> Op Trustpilot
+            <a href="https://nl.trustpilot.com/review/misstowels.nl" target="_blank" rel="noopener"> <span>346+ reviews</span> </a> Op Trustpilot
         </p>
     </div>
     <div class="slider-data-wrapper">
         <div class="custom-slider-wrapper">
             <div class="swiper gmd-customSwiper" id="custom-gallery">
                 <div class="swiper-wrapper"></div>
-                <div class="swiper-button-prev">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="11" height="20" viewBox="0 0 11 20" fill="none">
-                        <path d="M9.98437 17.8125L2.08594 9.60937L9.98437 1.35937C10.1719 1.20312 10.2656 1.03516 10.2656 0.855469C10.2656 0.675781 10.1719 0.492187 9.98437 0.304687C9.82812 0.101562 9.66016 -5.29318e-08 9.48047 -6.86405e-08C9.30078 -8.43493e-08 9.11719 0.101562 8.92969 0.304687L0.234374 9.07031C0.0781242 9.24219 -8.23003e-07 9.41406 -8.38029e-07 9.58594C-8.53055e-07 9.75781 0.0781241 9.94531 0.234374 10.1484L8.92969 18.9141C9.11719 19.1172 9.30078 19.2187 9.48047 19.2187C9.66015 19.2187 9.82812 19.1172 9.98437 18.9141C10.1719 18.7422 10.2656 18.5625 10.2656 18.375C10.2656 18.1875 10.1719 18 9.98437 17.8125Z" fill="#0E1311"/>
-                    </svg>
-                </div>
-                <div class="swiper-button-next">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="11" height="20" viewBox="0 0 11 20" fill="none">
-                        <path d="M0.28125 1.40625L8.17969 9.60938L0.28125 17.8594C0.09375 18.0156 0 18.1836 0 18.3633C0 18.543 0.09375 18.7266 0.28125 18.9141C0.4375 19.1172 0.605469 19.2188 0.785156 19.2188C0.964844 19.2188 1.14844 19.1172 1.33594 18.9141L10.0312 10.1484C10.1875 9.97656 10.2656 9.80469 10.2656 9.63281C10.2656 9.46094 10.1875 9.27344 10.0312 9.07031L1.33594 0.304688C1.14844 0.101562 0.964844 0 0.785156 0C0.605469 0 0.4375 0.101562 0.28125 0.304688C0.09375 0.476562 0 0.65625 0 0.84375C0 1.03125 0.09375 1.21875 0.28125 1.40625Z" fill="#0E1311"/>
-                    </svg>
-                </div>
+            </div>
+            <div class="swiper-button-prev">
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="20" viewBox="0 0 11 20" fill="none">
+                    <path d="M9.98437 17.8125L2.08594 9.60937L9.98437 1.35937C10.1719 1.20312 10.2656 1.03516 10.2656 0.855469C10.2656 0.675781 10.1719 0.492187 9.98437 0.304687C9.82812 0.101562 9.66016 -5.29318e-08 9.48047 -6.86405e-08C9.30078 -8.43493e-08 9.11719 0.101562 8.92969 0.304687L0.234374 9.07031C0.0781242 9.24219 -8.23003e-07 9.41406 -8.38029e-07 9.58594C-8.53055e-07 9.75781 0.0781241 9.94531 0.234374 10.1484L8.92969 18.9141C9.11719 19.1172 9.30078 19.2187 9.48047 19.2187C9.66015 19.2187 9.82812 19.1172 9.98437 18.9141C10.1719 18.7422 10.2656 18.5625 10.2656 18.375C10.2656 18.1875 10.1719 18 9.98437 17.8125Z" fill="#0E1311"/>
+                </svg>
+            </div>
+            <div class="swiper-button-next">
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="20" viewBox="0 0 11 20" fill="none">
+                    <path d="M0.28125 1.40625L8.17969 9.60938L0.28125 17.8594C0.09375 18.0156 0 18.1836 0 18.3633C0 18.543 0.09375 18.7266 0.28125 18.9141C0.4375 19.1172 0.605469 19.2188 0.785156 19.2188C0.964844 19.2188 1.14844 19.1172 1.33594 18.9141L10.0312 10.1484C10.1875 9.97656 10.2656 9.80469 10.2656 9.63281C10.2656 9.46094 10.1875 9.27344 10.0312 9.07031L1.33594 0.304688C1.14844 0.101562 0.964844 0 0.785156 0C0.605469 0 0.4375 0.101562 0.28125 0.304688C0.09375 0.476562 0 0.65625 0 0.84375C0 1.03125 0.09375 1.21875 0.28125 1.40625Z" fill="#0E1311"/>
+                </svg>
             </div>
         </div>
     </div>`;
@@ -93,8 +93,6 @@
 
 
         const targetEle = document.querySelector('.hero');
-
-        // window.addEventListener('resize', moveSlider);
         
         if (!document.querySelector('.gmd-review-slider')) {
             targetEle.after(sliderEle);
@@ -141,6 +139,10 @@
                         loop: true,
                         slidesPerView: 1,
                         spaceBetween: 0,
+                        autoplay: {
+                            delay: 5000, // 5 seconds
+                            disableOnInteraction: false
+                        },
                         centeredSlides: false,      // keep slides aligned to the left
                         navigation: {
                             nextEl: ".custom-slider-wrapper .swiper-button-next",

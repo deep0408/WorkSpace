@@ -1,0 +1,285 @@
+.gmd-05 {
+    overflow-x: hidden;
+
+    .gmd-heading{
+        color: #000;
+        text-align: center;
+        font-family: Poppins;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 130%;
+    }
+
+    .gmd-review-wrapper {
+
+        &.slider-main{
+            padding-right: 46px;
+
+            @media (max-width: 1023px){
+                padding: 19px 0 0;
+            }
+        }
+
+        &.slider-mini{
+            padding: 0 10px 20px;
+
+            .features-wrapper{
+                flex-direction: column;
+            }
+        }
+
+        .gmd-review{
+
+            
+            .gmd-rating-number-wrapper{
+                display: flex;
+                gap: 8px;
+                align-items: center;
+                justify-content: center;
+
+                p{
+                    line-height: 22.5px;
+                }
+            }
+            
+            a{
+                color: #000;
+                text-align: center;
+                font-size: 12px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 18px;
+                margin-bottom: 24px;
+
+                &:hover{
+                    text-decoration: none;
+                }
+
+                @media (max-width: 767px){
+                    margin-bottom: 17px;
+                }
+            }
+        }
+            
+        .features-wrapper{
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            align-items: center;
+            border-radius: 4px;
+            background: rgba(101, 202, 111, 0.10);
+            padding: 14px 16px 11px;
+            gap: 12px;
+            margin-bottom: 23px;
+
+            @media (max-width: 767px) {
+                gap: 2px;
+            }
+
+            p{
+                color: #000;
+                margin: 0;
+                font-size: 13px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 130%;
+            }
+        }
+
+        .custom-slider-wrapper {
+
+            .swiper-wrapper {
+                padding-right: 0;
+                display: flex;
+            }
+
+            .swiper-slide{
+                height: auto !important;
+                border-radius: 4px;
+                border: 1px solid #ECECEC;
+                background: #FFF;
+                padding: 12px;
+
+                @media (max-width: 767px) {
+                    padding: 14px;
+                }
+            }
+
+
+            .review-arrow-buttons-wrapper {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding-right: 24px;
+
+                @media (max-width: 767px) {
+                    margin-top: 24px;
+                    padding-right: 14px;
+                }
+            }
+
+            .gmd-review-wrapper {
+                .gmd-review-source-wrapper {
+                    display: flex;
+                    align-items: baseline;
+                    gap: 10px;
+                }
+
+                p {
+                    color: #000;
+                    font-size: 12px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 14px;
+                    margin: 0;
+                    font-family: "Helvetica Neue" , sans-serif;
+
+                    b {
+                        font-weight: 600;
+                    }
+
+                    svg{
+                        margin-left: 7px;
+                        vertical-align: -2px;
+                    }
+                }
+
+                @media (max-width: 767px) {
+                    .gmd-review-intro {
+                        text-align: center;
+                    }
+                }
+            }
+
+            .custom-arrow-buttons {
+                position: relative;
+                max-width: 63px;
+                width: 100%;
+                gap: 7px;
+                display: flex;
+
+                > svg {
+                    border-radius: 60px;
+                    width: 28px;
+                    height: 28px;
+
+                    &:hover {
+                        background: #e6e6e6;
+                    }
+                } 
+
+                .swiper-button-next,
+                .swiper-button-prev {
+                    position: unset;
+                    margin: 0;
+                    display: block;
+                    height: 27px;
+                    z-index: 1;
+    
+                    &::after {
+                        content: none !important;
+                    }
+                }
+            }
+
+
+            .swiper-pagination {
+                display: none !important;
+            }
+        }
+
+        .gmd-review-card {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+
+            @media (max-width: 767px) {
+                gap: 6px;
+            }
+
+            .gmd-review-header {
+                display: flex;
+                flex-direction: column;
+                gap: 13px; 
+                width: 100%;
+
+                .gmd-rating-number-wrapper {
+                    position: relative;
+                    display: flex;
+                    gap: 8px;
+                    align-items: center;
+
+                    .gmd-rating-number{
+                        color: #605E55;
+                        font-size: 8px;
+                        font-weight: 500;
+                        line-height: normal;
+                    }
+
+                    .gmd-rating{
+                        color: #000;
+                        // font-family: Poppins;
+                        font-size: 14px;
+                        font-style: normal;
+                        line-height: 130%;
+                    }
+                }
+                
+                .gmd-review{
+                    display: flex;
+                    gap: 19px;
+                    align-items: center;
+
+                    p{
+                        margin: 0;
+                        color: #1B6820;
+                        font-size: 8px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 140%;
+                    }
+                }
+
+            }
+
+            .gmd-card-title {
+                color: #000;
+                font-size: 14px;
+                font-style: normal;
+                display: block;
+                font-weight: 700;
+                line-height: 130%;
+
+                @media (max-width: 767px) {
+                    font-size: 13px;
+                }
+            }
+
+            .gmd-review-text {
+                margin: 0;
+                color: #000;
+                font-size: 14px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 130%;
+
+                @media (max-width: 767px) {
+                    font-size: 13px;
+                }
+            }
+
+            .gmd-author {
+                color: #7E7E7E;
+                font-size: 12px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 130%;
+
+                @media (max-width: 767px) {
+                    font-size: 11px;
+                }
+            }
+        }
+    }
+}

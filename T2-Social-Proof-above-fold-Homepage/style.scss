@@ -43,7 +43,7 @@
                     font-size: 14px;
                 }
                 
-                span{
+                a{
                     font-weight: 700;
                     text-decoration-line: underline;
                     text-decoration-style: solid;
@@ -51,10 +51,6 @@
                     text-decoration-thickness: auto;
                     text-underline-offset: auto;
                     text-underline-position: from-font;
-
-                    &:hover{
-                        text-decoration: none;
-                    }
                 }
             }
         }
@@ -81,9 +77,11 @@
                     position: relative;
                     max-width: 425px;
                     margin: 0 auto;
+                    padding: 0 15px;
 
                     @media (max-width: 500px) {
                         max-width: 295px;
+                        padding: 0 20px;
                     }
 
                     /* wrapper */

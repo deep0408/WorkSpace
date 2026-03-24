@@ -44,7 +44,7 @@
     font-size: 14px;
   }
 }
-.gmd-02 .gmd-review-slider .gmd-rating-number-wrapper .gmd-rating span {
+.gmd-02 .gmd-review-slider .gmd-rating-number-wrapper .gmd-rating a {
   font-weight: 700;
   text-decoration-line: underline;
   text-decoration-style: solid;
@@ -53,9 +53,6 @@
   text-decoration-thickness: auto;
   text-underline-offset: auto;
   text-underline-position: from-font;
-}
-.gmd-02 .gmd-review-slider .gmd-rating-number-wrapper .gmd-rating span:hover {
-  text-decoration: none;
 }
 .gmd-02 .gmd-review-slider .slider-data-wrapper {
   max-width: 50%;
@@ -80,10 +77,12 @@
   position: relative;
   max-width: 425px;
   margin: 0 auto;
+  padding: 0 15px;
 }
 @media (max-width: 500px) {
   .gmd-02 .gmd-review-slider .slider-data-wrapper .custom-slider-wrapper .gmd-customSwiper {
     max-width: 295px;
+    padding: 0 20px;
   }
 }
 .gmd-02 .gmd-review-slider .slider-data-wrapper .custom-slider-wrapper .gmd-customSwiper {

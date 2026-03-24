@@ -58,7 +58,7 @@
             </defs>
         </svg>
         <p class="gmd-rating"><b>4.7/5</b> uit meer dan
-            <a href="https://nl.trustpilot.com/review/misstowels.nl" target="_blank" rel="noopener"> <span>346+ reviews</span> </a> Op Trustpilot
+            <a href="https://nl.trustpilot.com/review/misstowels.nl" target="_blank" rel="noopener"> 346+ reviews</a> Op Trustpilot
         </p>
     </div>
     <div class="slider-data-wrapper">
@@ -138,7 +138,7 @@
                         direction: "horizontal",
                         loop: true,
                         slidesPerView: 1,
-                        spaceBetween: 0,
+                        spaceBetween: 20,
                         autoplay: {
                             delay: 5000, // 5 seconds
                             disableOnInteraction: false

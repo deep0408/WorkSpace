@@ -1,0 +1,164 @@
+.gmd-16 .banner {
+  margin-bottom: 122px;
+}
+@media (max-width: 767px) {
+  .gmd-16 .banner {
+    margin-bottom: 89px;
+  }
+}
+.gmd-16 .banner .plusonder {
+  z-index: 1;
+}
+.gmd-16 .zorgdomein {
+  display: none;
+}
+.gmd-16 .gmd-info-section {
+  position: relative;
+  z-index: 1;
+  margin-bottom: 71px;
+  padding: 0 15px;
+}
+@media (max-width: 1080px) {
+  .gmd-16 .gmd-info-section {
+    padding: 0;
+  }
+}
+.gmd-16 .gmd-info-section .cards-wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+@media (max-width: 920px) {
+  .gmd-16 .gmd-info-section .cards-wrapper {
+    flex-direction: column;
+    gap: 24px;
+  }
+}
+.gmd-16 .gmd-info-section .cards-wrapper .right-cards {
+  max-width: 605px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+@media (max-width: 920px) {
+  .gmd-16 .gmd-info-section .cards-wrapper .right-cards {
+    max-width: 100%;
+    gap: 17px;
+  }
+}
+.gmd-16 .gmd-info-section .cards-wrapper .right-cards .heading {
+  color: #FF6200;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 55px;
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .gmd-16 .gmd-info-section .cards-wrapper .right-cards .heading {
+    font-size: 27px;
+    line-height: 30px;
+  }
+}
+.gmd-16 .gmd-info-section .cards-wrapper .right-cards .sub-content {
+  color: #101D5E;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  margin: 0;
+}
+.gmd-16 .gmd-info-section .cards-wrapper .right-cards .sub-content b {
+  color: #101D5E;
+  font-weight: 700;
+}
+.gmd-16 .gmd-info-section .cards-wrapper .left-cards {
+  max-width: 452px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+@media (max-width: 920px) {
+  .gmd-16 .gmd-info-section .cards-wrapper .left-cards {
+    max-width: 100%;
+  }
+}
+.gmd-16 .gmd-info-section .cards-wrapper .left-cards p {
+  margin: 0;
+}
+.gmd-16 .gmd-info-section .cards-wrapper .left-cards .top-card {
+  padding: 25px 15px;
+  border-radius: 10px;
+  background: #0689F1;
+  color: #FFF;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}
+@media (max-width: 767px) {
+  .gmd-16 .gmd-info-section .cards-wrapper .left-cards .top-card {
+    padding: 16px 12px;
+  }
+}
+.gmd-16 .gmd-info-section .cards-wrapper .left-cards .top-card b {
+  color: #FFF;
+  font-weight: 700;
+}
+.gmd-16 .gmd-info-section .cards-wrapper .left-cards .bottom-card {
+  padding: 25px 15px;
+  border-radius: 20px;
+  background: #FFF7EB;
+  color: #101D5E;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}
+@media (max-width: 767px) {
+  .gmd-16 .gmd-info-section .cards-wrapper .left-cards .bottom-card {
+    padding: 16px 12px;
+  }
+}
+.gmd-16 #hoehetwerkt .stap {
+  padding-bottom: 40px;
+  padding: 65px 25px 40px 25px;
+}
+@media (max-width: 767px) {
+  .gmd-16 #hoehetwerkt .stap {
+    padding-bottom: 24px;
+  }
+  .gmd-16 #hoehetwerkt .stap:last-child .staptop {
+    max-width: 319px;
+  }
+}
+@media (max-width: 767px) {
+  .gmd-16 #hoehetwerkt .stap:nth-last-child(1) {
+    padding: 118px 24px 24px;
+  }
+}
+.gmd-16 #hoehetwerkt .stap .staptop {
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  min-width: 286px;
+  gap: 19px;
+  padding: 15px;
+  justify-content: flex-start;
+}
+@media (max-width: 767px) {
+  .gmd-16 #hoehetwerkt .stap .staptop {
+    min-width: 0;
+    gap: 16px;
+    max-width: 275px;
+  }
+}
+.gmd-16 #hoehetwerkt .stap .inhoud ul {
+  padding-left: 26px;
+  margin-bottom: 24px;
+}
+.gmd-16 #hoehetwerkt .stap .inhoud .gmd-color {
+  color: #FF6200;
+  font-weight: 700;
+}/*# sourceMappingURL=style.css.map */

@@ -201,6 +201,10 @@
                 &:hover{
                     opacity: 0.5;
                 }
+
+                @media (max-width: 767px) {
+                    width: 9px;
+                }
             }
             .swiper-button-prev:after,
             .swiper-button-next:after{

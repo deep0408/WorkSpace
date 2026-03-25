@@ -192,6 +192,12 @@
 .gmd-02 .gmd-review-slider .slider-data-wrapper .swiper-button-next:hover {
   opacity: 0.5;
 }
+@media (max-width: 767px) {
+  .gmd-02 .gmd-review-slider .slider-data-wrapper .swiper-button-prev,
+  .gmd-02 .gmd-review-slider .slider-data-wrapper .swiper-button-next {
+    width: 9px;
+  }
+}
 .gmd-02 .gmd-review-slider .slider-data-wrapper .swiper-button-prev:after,
 .gmd-02 .gmd-review-slider .slider-data-wrapper .swiper-button-next:after {
   display: none;

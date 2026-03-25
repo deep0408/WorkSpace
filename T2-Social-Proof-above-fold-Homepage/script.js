@@ -91,7 +91,6 @@
             document.getElementsByTagName('body')[0].appendChild(script);
         }
 
-
         const targetEle = document.querySelector('.hero');
         
         if (!document.querySelector('.gmd-review-slider')) {

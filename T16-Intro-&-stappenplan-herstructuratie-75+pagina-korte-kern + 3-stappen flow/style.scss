@@ -137,7 +137,10 @@
 
         .stap {
             padding-bottom: 40px;
-            padding: 65px 25px 40px 25px;
+
+            &:nth-child(odd){
+                padding: 65px 25px 40px 25px;
+            }
 
             @media (max-width: 767px) {
                 padding-bottom: 24px;

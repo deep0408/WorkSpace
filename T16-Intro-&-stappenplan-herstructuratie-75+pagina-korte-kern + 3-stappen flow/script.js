@@ -104,7 +104,7 @@
                                 <li style="font-weight: 400"><span style="font-weight: 400">Vervolgens selecteert u uw keuring: Rijbewijskeuring Groot (C/D/E)</span></li>
                                 <li style="font-weight: 400"><span style="font-weight: 400">Kies een datum en tijdstip dat voor u uitkomt.</span></li>
                                 <li style="font-weight: 400"><span style="font-weight: 400">Vul uw gegevens in.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Bevestig de afspraak. U ontvangt binnen 2 minuten de bevestiging en de factuur<b> (€90) </b>op uw email.</span></li>
+                                <li style="font-weight: 400"><span style="font-weight: 400">Bevestig de afspraak. U ontvangt binnen 2 minuten de bevestiging en de factuur (€90) op uw email.</span></li>
                             </ul>
                             <p class="m-0"><span class="gmd-color">Let op:</span> heeft u de Gezondheidsverklaring van het CBR nog niet ingevuld? Doe dit dan eerst, voordat u een afspraak maakt.
                                 Lukt het niet of heeft u vragen? Bel ons gerust, dan leggen we het stap voor stap uit: 085 060 2626.

@@ -30,11 +30,11 @@
                 "subHeading": "Maak een afspraak",
                 "content": `<p class="m-0">Via onze website kunt u makkelijk een afspraak maken. Dit doet u als volgt:</p>
                             <ul> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">Vul uw postcode of woonplaats in en kies een keuringslocatie.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Kies daarna het type keuring. Wordt u binnenkort 75 jaar (of bent u dit net geworden)? Kies dan de 75+ keuring.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Kies een datum en tijdstip dat voor u uitkomt.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Vul uw gegevens in.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Bevestig uw afspraak. U ontvangt binnen 2 minuten een bevestiging en de factuur (€70) per e-mail.</span></li>
+                                <li><span>Vul uw postcode of woonplaats in en kies een keuringslocatie.</span></li>
+                                <li><span>Kies daarna het type keuring. Wordt u binnenkort 75 jaar (of bent u dit net geworden)? Kies dan de 75+ keuring.</span></li>
+                                <li><span>Kies een datum en tijdstip dat voor u uitkomt.</span></li>
+                                <li><span>Vul uw gegevens in.</span></li>
+                                <li><span>Bevestig uw afspraak. U ontvangt binnen 2 minuten een bevestiging en de factuur (€70) per e-mail.</span></li>
                             </ul>
                             <p class="m-0"><span class="gmd-color">Let op:</span> heeft u de Gezondheidsverklaring van het CBR nog niet ingevuld? Doe dit dan eerst, voordat u een afspraak maakt.
                             Lukt het niet of heeft u vragen? Bel ons gerust, dan leggen we het stap voor stap uit: 085 060 2626.
@@ -54,10 +54,10 @@
                 "subHeading": "De keuring bij de arts",
                 "content": `<p class="m-0">De keuring duurt ongeveer 15 minuten. De keuringsarts:</p>
                             <ul> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">Meet uw bloeddruk</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Test uw urine op glucose</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Test uw ogen</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Bespreekt kort uw gezondheid</span></li>
+                                <li><span>Meet uw bloeddruk</span></li>
+                                <li><span>Test uw urine op glucose</span></li>
+                                <li><span>Test uw ogen</span></li>
+                                <li><span>Bespreekt kort uw gezondheid</span></li>
                             </ul>
                             <p class="m-0">Daarna vult de arts het verslag in en stuurt dit door naar het CBR. U hoeft zelf niets meer te regelen.
                             </p>`
@@ -78,11 +78,11 @@
                 "heading": "Wat neemt u mee naar de keuring?",
                 "subHeading": "U neemt het volgende mee naar de keuring rijbewijs 75 jaar:",
                 "content": `<ul class="m-0"> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">De verwijsbrief met ZD-code(s).</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Een actueel medicatieoverzicht, ook als u geen medicatie gebruikt. Deze kunt u aanvragen bij uw huisarts of apotheek.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Een urinemonster van maximaal 2 uur oud, hoeft niet nuchter. Urinepotjes zijn verkrijgbaar bij uw apotheek, huisarts of drogist.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Een legitimatiebewijs (rijbewijs, paspoort of ID-kaart).</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Uw bril. Als u lenzen draagt: de sterktes hiervan op papier.</span></li>
+                                <li><span>De verwijsbrief met ZD-code(s).</span></li>
+                                <li><span>Een actueel medicatieoverzicht, ook als u geen medicatie gebruikt. Deze kunt u aanvragen bij uw huisarts of apotheek.</span></li>
+                                <li><span>Een urinemonster van maximaal 2 uur oud, hoeft niet nuchter. Urinepotjes zijn verkrijgbaar bij uw apotheek, huisarts of drogist.</span></li>
+                                <li><span>Een legitimatiebewijs (rijbewijs, paspoort of ID-kaart).</span></li>
+                                <li><span>Uw bril. Als u lenzen draagt: de sterktes hiervan op papier.</span></li>
                             </ul>`
             },
         ],
@@ -100,11 +100,11 @@
                 "subHeading": "Maak een afspraak",
                 "content": `<p class="m-0">Via onze website kunt u makkelijk een afspraak maken. Dit doet u als volgt:</p>
                             <ul> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">Vul uw postcode of woonplaats in en selecteer de gewenste keuringslocatie.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Vervolgens selecteert u uw keuring: Rijbewijskeuring Groot (C/D/E)</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Kies een datum en tijdstip dat voor u uitkomt.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Vul uw gegevens in.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Bevestig de afspraak. U ontvangt binnen 2 minuten de bevestiging en de factuur (€90) op uw email.</span></li>
+                                <li><span>Vul uw postcode of woonplaats in en selecteer de gewenste keuringslocatie.</span></li>
+                                <li><span>Vervolgens selecteert u uw keuring: Rijbewijskeuring Groot (C/D/E)</span></li>
+                                <li><span>Kies een datum en tijdstip dat voor u uitkomt.</span></li>
+                                <li><span>Vul uw gegevens in.</span></li>
+                                <li><span>Bevestig de afspraak. U ontvangt binnen 2 minuten de bevestiging en de factuur (€90) op uw email.</span></li>
                             </ul>
                             <p class="m-0"><span class="gmd-color">Let op:</span> heeft u de Gezondheidsverklaring van het CBR nog niet ingevuld? Doe dit dan eerst, voordat u een afspraak maakt.
                                 Lukt het niet of heeft u vragen? Bel ons gerust, dan leggen we het stap voor stap uit: 085 060 2626.
@@ -124,10 +124,10 @@
                 "subHeading": "De keuring bij de arts",
                 "content": `<p class="m-0">De keuring duurt ongeveer 15 minuten. De keuringsarts:</p>
                             <ul> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">Meet uw bloeddruk</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Test uw urine op glucose</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Test uw ogen</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Bespreekt kort uw gezondheid</span></li>
+                                <li><span>Meet uw bloeddruk</span></li>
+                                <li><span>Test uw urine op glucose</span></li>
+                                <li><span>Test uw ogen</span></li>
+                                <li><span>Bespreekt kort uw gezondheid</span></li>
                             </ul>
                             <p class="m-0">Daarna vult de arts het verslag in en stuurt dit door naar het CBR. U hoeft zelf niets meer te regelen.
                             </p>`
@@ -148,11 +148,11 @@
                 "heading": "Wat neemt u mee naar de keuring?",
                 "subHeading": "U neemt het volgende mee naar de keuring rijbewijs 75 jaar:",
                 "content": `<ul class="m-0"> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">De verwijsbrief met ZD-code(s).</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Een actueel medicatieoverzicht, ook als u geen medicatie gebruikt. Deze kunt u aanvragen bij uw huisarts of apotheek.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Een urinemonster van maximaal 2 uur oud, hoeft niet nuchter. Urinepotjes zijn verkrijgbaar bij uw apotheek, huisarts of drogist.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Een legitimatiebewijs (rijbewijs, paspoort of ID-kaart).</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Uw bril. Als u lenzen draagt: de sterktes hiervan op papier.</span></li>
+                                <li><span>De verwijsbrief met ZD-code(s).</span></li>
+                                <li><span>Een actueel medicatieoverzicht, ook als u geen medicatie gebruikt. Deze kunt u aanvragen bij uw huisarts of apotheek.</span></li>
+                                <li><span>Een urinemonster van maximaal 2 uur oud, hoeft niet nuchter. Urinepotjes zijn verkrijgbaar bij uw apotheek, huisarts of drogist.</span></li>
+                                <li><span>Een legitimatiebewijs (rijbewijs, paspoort of ID-kaart).</span></li>
+                                <li><span>Uw bril. Als u lenzen draagt: de sterktes hiervan op papier.</span></li>
                             </ul>`
             },
         ],
@@ -161,7 +161,7 @@
             {   
                 "infoHeading": "Wat houdt de medische rijbewijskeuring 75- in?",
                 "infoSubHeading": "Heeft u van het CBR een verwijzing ontvangen voor een medische rijbewijskeuring? Dan is een keuring door een arts verplicht. Dit is een eenvoudig onderzoek van ongeveer <b>15 minuten</b>. De arts meet uw bloeddruk, controleert uw ogen en bespreekt kort uw gezondheid. Daarna stuurt de arts het verslag door naar het CBR.",
-                "topData": "Bij Rijbewijskeuring Officieel plant u deze keuring snel en eenvoudig. Met meer dan <b> 150 locaties </b> is er altijd een arts in de buurt. De prijs is vooraf duidelijk (€75) en u ontvangt meteen een <b>bevestiging per e-mail</b>.",
+                "topData": "Bij Rijbewijskeuring Officieel plant u deze keuring snel en eenvoudig. Met meer dan <b> 150 locaties </b> is er altijd een arts in de buurt. De prijs is vooraf duidelijk <b>(€75)</b> en u ontvangt meteen een <b>bevestiging per e-mail</b>.",
                 "bottomData": "Hieronder leest u hoe het precies werkt en wat u kunt verwachten. Zo weet u vooraf waar u aan toe bent.",
                 "topHeading": "Rijbewijskeuring 75-; zo werkt het",
                 "img": `<svg xmlns="http://www.w3.org/2000/svg" width="39" height="40" viewBox="0 0 39 40" fill="none">
@@ -171,11 +171,11 @@
                 "subHeading": "Maak een afspraak",
                 "content": `<p class="m-0">Via onze website kunt u makkelijk een afspraak maken. Dit doet u als volgt:</p>
                             <ul> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">Vul uw postcode of woonplaats in en selecteer de gewenste keuringslocatie.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Vervolgens selecteert u uw keuring: Rijbewijskeuring 75- (A/B/BE)*.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Kies een voor u passende datum en een passend tijdstip.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Vul uw gegevens in.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Bevestig de afspraak. U ontvangt binnen 2 minuten de bevestiging en de factuur (€75) op uw email.</span></li>
+                                <li><span>Vul uw postcode of woonplaats in en selecteer de gewenste keuringslocatie.</span></li>
+                                <li><span>Vervolgens selecteert u uw keuring: Rijbewijskeuring 75- (A/B/BE)*.</span></li>
+                                <li><span>Kies een voor u passende datum en een passend tijdstip.</span></li>
+                                <li><span>Vul uw gegevens in.</span></li>
+                                <li><span>Bevestig de afspraak. U ontvangt binnen 2 minuten de bevestiging en de factuur (€75) op uw email.</span></li>
                             </ul>
                             <p class="m-0"><span class="gmd-color">Let op:</span> heeft u de Gezondheidsverklaring van het CBR nog niet ingevuld? Doe dit dan eerst, voordat u een afspraak maakt.
                                 Lukt het niet of heeft u vragen? Bel ons gerust, dan leggen we het stap voor stap uit: 085 060 2626.
@@ -195,10 +195,10 @@
                 "subHeading": "De keuring bij de arts",
                 "content": `<p class="m-0">De keuring duurt ongeveer 15 minuten. De keuringsarts:</p>
                             <ul> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">Meet uw bloeddruk</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Test uw urine op glucose</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Test uw ogen</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Bespreekt kort uw gezondheid</span></li>
+                                <li><span>Meet uw bloeddruk</span></li>
+                                <li><span>Test uw urine op glucose</span></li>
+                                <li><span>Test uw ogen</span></li>
+                                <li><span>Bespreekt kort uw gezondheid</span></li>
                             </ul>
                             <p class="m-0">Daarna vult de arts het verslag in en stuurt dit door naar het CBR. U hoeft zelf niets meer te regelen.
                             </p>`
@@ -215,36 +215,33 @@
                 "subHeading": "De uitslag",
                 "content": `<p>Binnen 4 weken ontvangt u de uitslag van het CBR. In een enkel geval vraagt het CBR u nog om wat aanvullende informatie aan te leveren.</p>
                             <p class="m-0">Onder de 75- keuring vallen alle verwijzingen die bestemd zijn voor de keurend arts (geen specialisten). U kunt direct een afspraak inplannen als één van onderstaande verwijzingen op uw verwijsbrief van het CBR staan:</p>
-                            <ul> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Algemeen</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Diabetes Mellitus</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Visus</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Chronische Nierschade CNS</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Hart- & Vaatziekten</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Inwendige ziekte</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Medicijngebruik</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Beroerte</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Epileptische aanvallen</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Flauwvallen</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Syndroom van Ménière</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Functiebeperking onderste ledematen</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Functiebeperking bovenste ledematen</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Stationair neurologisch beeld</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Keurend arts- Misvorming hersenvat</span></li>
-                            </ul>
-                            <p class="m-0"><span class="gmd-color">Let op:</span> heeft u de Gezondheidsverklaring van het CBR nog niet ingevuld? Doe dit dan eerst, voordat u een afspraak maakt.
-                                Lukt het niet of heeft u vragen? Bel ons gerust, dan leggen we het stap voor stap uit: 085 060 2626.
-                            </p>`
+                            <ul class="m-0"> 
+                                <li><span>Keurend arts- Algemeen</span></li>
+                                <li><span>Keurend arts- Diabetes Mellitus</span></li>
+                                <li><span>Keurend arts- Visus</span></li>
+                                <li><span>Keurend arts- Chronische Nierschade CNS</span></li>
+                                <li><span>Keurend arts- Hart- & Vaatziekten</span></li>
+                                <li><span>Keurend arts- Inwendige ziekte</span></li>
+                                <li><span>Keurend arts- Medicijngebruik</span></li>
+                                <li><span>Keurend arts- Beroerte</span></li>
+                                <li><span>Keurend arts- Epileptische aanvallen</span></li>
+                                <li><span>Keurend arts- Flauwvallen</span></li>
+                                <li><span>Keurend arts- Syndroom van Ménière</span></li>
+                                <li><span>Keurend arts- Functiebeperking onderste ledematen</span></li>
+                                <li><span>Keurend arts- Functiebeperking bovenste ledematen</span></li>
+                                <li><span>Keurend arts- Stationair neurologisch beeld</span></li>
+                                <li><span>Keurend arts- Misvorming hersenvat</span></li>
+                            </ul>`
             },
             {
                 "heading": "Wat neemt u mee naar de keuring?",
                 "subHeading": "U neemt het volgende mee naar de keuring rijbewijs 75 jaar:",
                 "content": `<ul class="m-0"> 
-                                <li style="font-weight: 400"><span style="font-weight: 400">De verwijsbrief met ZD-code(s).</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Een actueel medicatieoverzicht, ook als u geen medicatie gebruikt. Deze kunt u aanvragen bij uw huisarts of apotheek.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Een urinemonster van maximaal 2 uur oud, hoeft niet nuchter. Urinepotjes zijn verkrijgbaar bij uw apotheek, huisarts of drogist.</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Een legitimatiebewijs (rijbewijs, paspoort of ID-kaart).</span></li>
-                                <li style="font-weight: 400"><span style="font-weight: 400">Uw bril. Als u lenzen draagt: de sterktes hiervan op papier.</span></li>
+                                <li><span>De verwijsbrief met ZD-code(s).</span></li>
+                                <li><span>Een actueel medicatieoverzicht, ook als u geen medicatie gebruikt. Deze kunt u aanvragen bij uw huisarts of apotheek.</span></li>
+                                <li><span>Een urinemonster van maximaal 2 uur oud, hoeft niet nuchter. Urinepotjes zijn verkrijgbaar bij uw apotheek, huisarts of drogist.</span></li>
+                                <li><span>Een legitimatiebewijs (rijbewijs, paspoort of ID-kaart).</span></li>
+                                <li><span>Uw bril. Als u lenzen draagt: de sterktes hiervan op papier.</span></li>
                             </ul>`
             },
         ]
